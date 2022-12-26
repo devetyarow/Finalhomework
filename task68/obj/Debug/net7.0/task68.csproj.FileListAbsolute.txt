@@ -1,0 +1,15 @@
+D:\C_sharp\Finalwork\task68\bin\Debug\net7.0\task68.exe
+D:\C_sharp\Finalwork\task68\bin\Debug\net7.0\task68.deps.json
+D:\C_sharp\Finalwork\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+D:\C_sharp\Finalwork\task68\bin\Debug\net7.0\task68.dll
+D:\C_sharp\Finalwork\task68\bin\Debug\net7.0\task68.pdb
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.dll
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\refint\task68.dll
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.pdb
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+D:\C_sharp\Finalwork\task68\obj\Debug\net7.0\ref\task68.dll
